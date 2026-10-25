@@ -8,7 +8,7 @@
 
 ## วิธีติดตั้ง
 
-1. ดาวน์โหลด `LongYinLiZhiZhuan_ThaiMod_v1.10.0.zip`
+1. ดาวน์โหลด `LongYinLiZhiZhuan_ThaiMod_v1.12.1.zip`
 2. แตกไฟล์ ZIP ไว้ที่ใดก็ได้
 3. ดับเบิลคลิก `Install.bat`
 4. เปิดเกมผ่าน Steam ตามปกติ
